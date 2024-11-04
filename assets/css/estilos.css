@@ -86,7 +86,7 @@ li {
 .separator-line {
     width: 100%;
     height: 1px;
-    background-color: var(--color-primario-claro);
+    background-color: background-color: white;
 }
 
 .navbar__ul {
